@@ -1,35 +1,35 @@
 <svg height="510" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="510" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 13:07:10 +0000   106990 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 13:07:10 +0000     1088 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 13:07:10 +0000     5844 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 13:07:10 +0000    19776 bytes  index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 13:07:10 +0000     7903 bytes  lib/base.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 13:07:10 +0000     4801 bytes  lib/collection.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 13:07:10 +0000     1388 bytes  lib/engines.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 13:07:10 +0000      475 bytes  lib/factory/file.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 13:07:10 +0000      475 bytes  lib/factory/view.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 13:07:10 +0000     4485 bytes  lib/file.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 13:07:10 +0000     1152 bytes  lib/helpers/collection.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 13:07:10 +0000       53 bytes  lib/helpers/index.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 13:07:10 +0000     3266 bytes  lib/helpers/methods.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 13:07:10 +0000     1186 bytes  lib/helpers/view.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 13:07:10 +0000       53 bytes  lib/index.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 13:07:10 +0000     2071 bytes  lib/item.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 13:07:10 +0000     4548 bytes  lib/list.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 13:07:10 +0000     1498 bytes  lib/loaders/base.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 13:07:10 +0000      600 bytes  lib/loaders/data.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 13:07:10 +0000     1224 bytes  lib/loaders/helpers.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 13:07:10 +0000       53 bytes  lib/loaders/index.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 13:07:10 +0000      527 bytes  lib/loaders/iterators.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 13:07:10 +0000     4166 bytes  lib/lookup.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 13:07:10 +0000     1241 bytes  lib/mixins/collection.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 13:07:10 +0000     6343 bytes  lib/mixins/list.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 13:07:10 +0000     3934 bytes  lib/mixins/view.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 13:07:10 +0000     6030 bytes  lib/utils.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 13:07:10 +0000    11175 bytes  lib/view.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 13:07:10 +0000     6129 bytes  lib/views.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 13:07:10 +0000     5506 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 13:08:20 +0000   106990 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 13:08:20 +0000     1088 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 13:08:20 +0000     5844 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 13:08:20 +0000    19776 bytes  index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 13:08:20 +0000     7903 bytes  lib/base.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 13:08:20 +0000     4801 bytes  lib/collection.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 13:08:20 +0000     1388 bytes  lib/engines.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 13:08:20 +0000      475 bytes  lib/factory/file.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 13:08:20 +0000      475 bytes  lib/factory/view.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 13:08:20 +0000     4485 bytes  lib/file.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 13:08:20 +0000     1152 bytes  lib/helpers/collection.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 13:08:20 +0000       53 bytes  lib/helpers/index.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 13:08:20 +0000     3266 bytes  lib/helpers/methods.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 13:08:20 +0000     1186 bytes  lib/helpers/view.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 13:08:20 +0000       53 bytes  lib/index.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 13:08:20 +0000     2071 bytes  lib/item.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 13:08:20 +0000     4548 bytes  lib/list.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 13:08:20 +0000     1498 bytes  lib/loaders/base.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 13:08:20 +0000      600 bytes  lib/loaders/data.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 13:08:20 +0000     1224 bytes  lib/loaders/helpers.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 13:08:20 +0000       53 bytes  lib/loaders/index.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 13:08:20 +0000      527 bytes  lib/loaders/iterators.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 13:08:20 +0000     4166 bytes  lib/lookup.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 13:08:20 +0000     1241 bytes  lib/mixins/collection.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 13:08:20 +0000     6343 bytes  lib/mixins/list.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 13:08:20 +0000     3934 bytes  lib/mixins/view.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 13:08:20 +0000     6030 bytes  lib/utils.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 13:08:20 +0000    11175 bytes  lib/view.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 13:08:20 +0000     6129 bytes  lib/views.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 13:08:20 +0000     5506 bytes  package.json</tspan>
 </text>
 </svg>
