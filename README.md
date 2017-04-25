@@ -1,6 +1,6 @@
 # npmtest-template
 
-#### test coverage for  [template (v0.17.5)](https://github.com/jonschlinkert/template)  [![npm package](https://img.shields.io/npm/v/npmtest-template.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-template) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-template.svg)](https://travis-ci.org/npmtest/node-npmtest-template)
+#### basic test coverage for  [template (v0.17.5)](https://github.com/jonschlinkert/template)  [![npm package](https://img.shields.io/npm/v/npmtest-template.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-template) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-template.svg)](https://travis-ci.org/npmtest/node-npmtest-template)
 
 #### Render templates using any engine. Supports, layouts, pages, partials and custom template types. Use template helpers, middleware, routes, loaders, and lots more. Powers assemble, verb and other node.js apps.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-template/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-template/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-template/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-template/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-template/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-template/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-template/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-template/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-template/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-template/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-template/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-template/build/coverage.html/index.html)
 
@@ -206,7 +206,8 @@
             ]
         }
     },
-    "version": "0.17.5"
+    "version": "0.17.5",
+    "bin": {}
 }
 ```
 
